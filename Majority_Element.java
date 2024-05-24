@@ -8,7 +8,7 @@ class Majority_Element {
 	for( int i = arr[1];i<=args.length-1;i++) {
 		if(i==count)
 			
-System.out.println("Majority element is:" +i);
+System.out.println("Majority element iss:" +i);
 	
 		
 	}
