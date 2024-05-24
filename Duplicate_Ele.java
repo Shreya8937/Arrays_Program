@@ -5,7 +5,7 @@ public class Duplicate_Ele {
 	int a=arr[0];
 	for(int i = 0;i<=arr.length-1;i++) {
 		if(i== a)
-			System.out.println("Duplicate " +i);
+			System.out.println("Duplicates are " +i);
 	}
 	}
 
