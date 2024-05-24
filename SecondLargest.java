@@ -1,7 +1,7 @@
 import java.util.Arrays;
  class Second_Largest {
    public static void main(String args[]){
-      int array[] = {10, 20, 25, 73, 36, 17};
+      int array[] = {10, 20, 25, 73, 36, 17,33};
       int size = array.length;
       Arrays.sort(array);
       System.out.println("sorted Array ::"+Arrays.toString());
