@@ -17,7 +17,7 @@ class Zeroes_move
   
     public static void main (String[] args) 
     { 
-        int arr[] = {1, 88, 8, 34, 0, 0, 32, 57, 0, 16, 0, 79}; 
+        int arr[] = {1, 88, 8, 34, 0, 0, 32, 57, 0, 16, 0, 79,99}; 
         int n = arr.length; 
         moveZerosToEnd(arr, n); 
         System.out.println("Array after moving zero at end: "); 
